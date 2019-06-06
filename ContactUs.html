@@ -17,73 +17,77 @@
 	<li><a href="Index.html" target="_self">Home</a></li>
     <li><a href="Resident.html" target="_self">Resident</a>
 	<ul>
-           <li><a href="#">Animal Services</a></li>
-           <li><a href="#">Children And Youth</a></li>
-           <li><a href="#">Emergency information</a></li>
-           <li><a href="#">Recreation</a></li>
+        <li><a href="#">Animal Services</a></li>
+        <li><a href="#">Children And Youth</a></li>
+        <li><a href="#">Emergency information</a></li>
+        <li><a href="#">Recreation</a></li>
     </ul>
 	</li>
     <li>
-        <a href="http://www.london.ca/business/Pages/default.aspx" target="_blank">Business</a>
-        <ul>
-            <li><a href="#">Business Support</a></li>
-            <li><a href="#">Planning And Development</a></li>
-            <li><a href="#">Municipal Property</a></li>
-            <li><a href="#">Permits And Licences</a></li>
-        </ul>
+    <a href="http://www.london.ca/business/Pages/default.aspx" target="_blank">Business</a>
+    <ul>
+        <li><a href="#">Business Support</a></li>
+        <li><a href="#">Planning And Development</a></li>
+        <li><a href="#">Municipal Property</a></li>
+        <li><a href="#">Permits And Licences</a></li>
+    </ul>
     </li>
     <li><a href="ContactUs.html" target="_self">Contact Us</a>
 	</li>
     <li><a href="About.html" target="_self">About London</a>
-		<ul>
-            <li><a href="#">Culture</a></li>
-            <li><a href="#">Education</a></li>
-            <li><a href="#">Heritage</a></li>
-            <li><a href="#">History Of London</a></li>
-        </ul>
+	<ul>
+        <li><a href="#">Culture</a></li>
+        <li><a href="#">Education</a></li>
+        <li><a href="#">Heritage</a></li>
+        <li><a href="#">History Of London</a></li>
+    </ul>
 	</li>
 </ul>
 <form>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11674.157453760775!2d-81.246039!3d42.9879761!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6477221a8dda94e!2sLondon+City+Hall!5e0!3m2!1sen!2sca!4v1559837702654!5m2!1sen!2sca" id="map" width="300" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+	<div id="map">
+		<p><b>City of London</b></p>
+		<p>300 Dufferin Avenue</p>
+		<p>London Ontario N6A 4L9</p>
+		<p>Tel: 519-661-CITY (2489)</p>
+	</div>
+		<p>
+		<label><b>Name</b>
+		<input type="text" name="customer_name" required><span id='required'>*</span>
+		</label> 
+		</p>
 		
-			<p>
-			<label><b>Name</b>
-			<input type="text" name="customer_name" required><span id='required'>*</span>
-			</label> 
-			</p>
-		
-			<p>
-			<label><b>Phone</b>
-			<input type="tel" name="phone_number" required><span id='required'>*</span>
-			</label>
-			</p>
+		<p>
+		<label><b>Phone</b>
+		<input type="tel" name="phone_number" required><span id='required'>*</span>
+		</label>
+		</p>
 		 
-			<p>
-			<label><b>Email</b>
-			<input type="email" name="email_address" required><span id='required'>*</span>
-			</label>
-			</p>
+		<p>
+		<label><b>Email</b>
+		<input type="email" name="email_address" required><span id='required'>*</span>
+		</label>
+		</p>
 		 
-		<div class='color'>
-			<fieldset>
-			<legend>What are your concerns?<span id='required'>*</span></legend>
-			<p><label> <input type="radio" name="position" required value="F">Construction</label></p>
-			<p><label> <input type="radio" name="position" required value="M">Permits </label></p>
-			<p><label> <input type="radio" name="position" required value="D">Roads</label></p>
-			<p><label> <input type="radio" name="position" required value="GK">Other</label></p>
-			<label><b>Please Specify:</b>
-			<input type="text" name="other" required>
-			</label>
-			</fieldset>
-		</div>
-			<br>
+	<div class='color'>
+	<fieldset>
+		<legend>What are your concerns?<span id='required'>*</span></legend>
+		<p><label> <input type="radio" name="position" required value="F">Construction</label></p>
+		<p><label> <input type="radio" name="position" required value="M">Permits </label></p>
+		<p><label> <input type="radio" name="position" required value="D">Roads</label></p>
+		<p><label> <input type="radio" name="position" required value="GK">Other</label></p>
+		<label><b>Please Specify:</b>
+		<input type="text" name="other" required>
+		</label>
+	</fieldset>
+	</div>
+	<br>
 		<p><button>Submit Form</button></p>
-		<br>
-		<div>
-			<p style="color:red">* Required fields</p>
-		</div>
-		</form>
-		
-<iframe width="100%" height="400" src="https://www.google.com/maps/place/London,+ON/@42.9490465,-81.3890498,11z/data=!3m1!4b1!4m5!3m4!1s0x882ef20ea88d9b0b:0x28c7d7699a056b95!8m2!3d42.9849233!4d-81.2452768" frameborder="5"></iframe>
+	<br>
+	<div>
+		<p style="color:red">* Required fields</p>
+	</div>
+	</form>
 		
 </div>
 <footer>
