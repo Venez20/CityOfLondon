@@ -190,15 +190,12 @@ h2 {
 	
 footer {
 	text-align: left;
+	font: Impact, sans-serif;
 	background-color: green;
 	color: white;
 	padding-bottom: 0.5%;
 }
 
-footer li {
-	display: inline;
-	padding: 3.2%;
-}
 
 footer a {
 	font: 30px/6 Impact, sans-serif;
@@ -236,12 +233,24 @@ aside img {
 
 #resident{
 	margin-top: -50px;
+	margin-left: 75px;
 }
 
+
+#table {
+margin-left: 400px;
+
+}
+
+#table, th {
+font: Impact, sans-serif;
+}	
 
 #table, td {
 padding: 5px;
 align: center;
+font: Impact, sans-serif;
+
 }
 
 
