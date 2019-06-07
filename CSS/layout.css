@@ -20,14 +20,14 @@ header {
 }
 
 #wrap h1 {
-	font: 40px/2 Impact, sans-serif;
-	color: #green;
+	font: 40px Arial, Helvetica;	
+	font-weight: bold;
 	padding-left: 1%;
 }
 
 h2 {
-	font: 32px/1.2 Impact, sans-serif;
-	color: #green;
+	font: 32px/1.2 Arial, Helvetica;
+	font-weight: bold;
 }
 
 
@@ -190,7 +190,7 @@ h2 {
 	
 footer {
 	text-align: left;
-	font: Impact, sans-serif;
+	font: Arial, Helvetica;
 	background-color: green;
 	color: white;
 	padding-bottom: 0.5%;
@@ -198,7 +198,7 @@ footer {
 
 
 footer a {
-	font: 30px/6 Impact, sans-serif;
+	font: 30px/6 Arial, Helvetica;
 	color: white;
 	text-decoration: none;
 }
@@ -210,6 +210,7 @@ section {
 	border-radius: 25px;*/
 	padding: 20px 10px 10px 10px;
 }
+
 
 section img {
 	float: left;
@@ -233,23 +234,27 @@ aside img {
 
 #resident{
 	margin-top: -50px;
-	margin-left: 75px;
+	margin-left: 10px;
 }
 
+#table h2 {
+font: 25px Arial, Helvetica;	
+font-weight: bold;
+}
 
 #table {
-margin-left: 400px;
+margin-left: 300px;
 
 }
 
 #table, th {
-font: Impact, sans-serif;
+font: Arial, Helvetica;
 }	
 
 #table, td {
 padding: 5px;
 align: center;
-font: Impact, sans-serif;
+font: Arial, Helvetica;
 
 }
 
