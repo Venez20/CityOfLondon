@@ -1,3 +1,3 @@
 # CityOfLondon
 City Of London website
-testing
+Assignment by Kirsten Jeffrey, Antohny Veneziano & Maria Wong-Klassen.
