@@ -52,41 +52,55 @@
 		<p>London Ontario N6A 4L9</p>
 		<p>Tel: 519-661-CITY (2489)</p>
 	</div>
+	<form>
 		<p>
-		<label><b>Name</b>
+		<label><b>Name:</b>
 		<input type="text" name="customer_name" required><span id='required'>*</span>
 		</label> 
 		</p>
 		
 		<p>
-		<label><b>Phone</b>
+		<label><b>Phone:</b>
 		<input type="tel" name="phone_number" required><span id='required'>*</span>
 		</label>
 		</p>
 		 
 		<p>
-		<label><b>Email</b>
+		<label><b>Email:</b>
 		<input type="email" name="email_address" required><span id='required'>*</span>
 		</label>
 		</p>
 		 
-<div class='color'>
+<div>
 <fieldset>
 	<legend>What are your concerns?<span id='required'>*</span></legend>
-	<p><label> <input type="radio" name="position" required value="F">Construction</label></p>
-	<p><label> <input type="radio" name="position" required value="M">Permits </label></p>
-	<p><label> <input type="radio" name="position" required value="D">Roads</label></p>
-	<p><label> <input type="radio" name="position" required value="GK">Other</label></p>
+	<p><label> <input type="radio" name="concern" required value="contruction">Construction</label></p>
+	<p><label> <input type="radio" name="concern" required value="permits">Permits </label></p>
+	<p><label> <input type="radio" name="concern" required value="roads">Roads</label></p>
+	<p><label> <input type="radio" name="concern" required value="other">Other</label></p>
 	<label><b>Please Specify:</b>
 	<input type="text" name="other" required>
 	</label>
 </fieldset>
+<br>
+<p>
+	<label>Area of London: 
+	<select id="pickup_place" name="pickup_place">
+	<option value="" selected="selected">Select One</option>
+	<option value="EL" >East London</option>
+	<option value="NL" >North London</option>
+	<option value="SL" >South London</option>
+	<option value="WL" >West London</option>
+	</select>
+	</label> 
+</p>
 </div>
 <br>
 	<p><button>Submit Form</button></p>
 <div>	
 	<p style="color:red">* Required fields</p>
 </div>	
+</form>
 <br>
 	<h3>Response Time</h3>	
 	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt nisi sapien, et aliquam diam molestie ut. Nullam eget lacus consequat arcu lacinia elementum at quis lorem. Sed vitae eleifend odio. Proin pretium nulla eget tortor tempus imperdiet vel eu nunc. Phasellus elementum non ligula id pharetra. Sed tellus enim, hendrerit non lorem quis, molestie tincidunt est. Proin augue augue, convallis quis molestie eu, iaculis id nulla. Etiam est velit, hendrerit quis hendrerit fringilla, suscipit vel mi. Morbi nec ultrices tellus. Aenean leo elit, mattis nec mi quis, aliquam fringilla nulla. Aenean condimentum pulvinar felis at ultrices. Nunc efficitur neque nec imperdiet suscipit.</p>
