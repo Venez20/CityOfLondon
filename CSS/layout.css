@@ -6,7 +6,7 @@ body {
 header {
 	font: 35px Arial, Helvetica;
 	color: white;
-	background-color: green;
+	background-color: #0c592c;
 	text-align: center;
 	padding-top: 0.5%;
 }
@@ -35,7 +35,7 @@ h2 {
     margin: 0;
     padding: 0;
     list-style: none;
-	background-color: green;
+	background-color: #0c592c;
 	
 }
 
@@ -43,8 +43,8 @@ h2 {
     width: 1600px;
     margin: 60px auto;
     border: 1px solid #222;
-    background-color: green;
-    background-image: linear-gradient(green, green);
+    background-color: #0c592c;
+    background-image: linear-gradient(#0c592c, #0c592c);
     border-radius: 6px;
     box-shadow: 0 1px 1px #777;
 }
@@ -61,7 +61,7 @@ h2 {
 
 #menu {
     zoom:1;
-	background-color: green;
+	background-color: #0c592c;
 	
 }
 
@@ -72,7 +72,7 @@ h2 {
     border-right: 1px solid #222;
     box-shadow: 1px 0 0 #444;
     position: relative;
-	background-color: green;
+	background-color: #0c592c;
 	color: white;
 }
 
@@ -191,7 +191,7 @@ h2 {
 footer {
 	text-align: left;
 	font: Arial, Helvetica;
-	background-color: green;
+	background-color: #0c592c;
 	color: white;
 	padding-bottom: 0.5%;
 }
@@ -294,12 +294,12 @@ padding-top: 50px;
 
 .flip-box-front {
   background-color: #bbb;
-  color: darkgreen;
+  color: #0c592c;
 }
 
 .flip-box-back {
   background-color: #bbb;
-  color: darkgreen;
+  color: #0c592c;
   transform: rotateY(180deg);
   font: 16px impact, sans-serif;
 }  
