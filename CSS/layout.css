@@ -30,6 +30,9 @@ h2 {
 	font-weight: bold;
 }
 
+h3 ~ p {
+	font-style: italic;
+}	
 
 #menu, #menu ul {
     margin: 0;
@@ -332,5 +335,7 @@ fieldset{
 	float: right;
 	padding-right: 10px;
 }	
+
+
 
 	
