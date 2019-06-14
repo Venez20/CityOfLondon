@@ -1,6 +1,6 @@
 # CityOfLondon
 City Of London website
-Assignment by Kirsten Jeffrey, Antohny Veneziano & Maria Wong-Klassen.
+Assignment by Kirsten Jeffrey, Anthony Veneziano & Maria Wong-Klassen.
 
 Codes are in CSS and HTML file
 This includes use of: 
@@ -9,20 +9,19 @@ This includes use of:
 - Form - located on the Contact us.html file and css file, this is between the header & footer on the page. This form was created to contact the City of London for any issues. We also included an "Other" box if the issues are included with the radiobutton.
 - Multiple class - located on the Contact Us.html file and css file, this multiple class function is within the form. We used multiple class to change the font color in two areas. 
 
-Transition design - located on the all html files and css file, this transition function was added to all the menu ul as well as the cardflip. on the About.html We used the transition to alter the timing. For the menu and for the card being fliped to 0.3s.
-Transform design - located on the all html files and css file, this transform is used on the menu a on the navigation and also rotates the flipcard 180deg on the About screen.
+- Transition design - located on the all html files and css file, this transition function was added to all the menu ul as well as the cardflip. on the About.html We used the transition to alter the timing. For the menu and for the card being fliped to 0.3s.
+- Transform design - located on the all html files and css file, this transform is used on the menu a on the navigation and also rotates the flipcard 180deg on the About screen.
 
 Selectors:
-- Element
-- Class
-- ID
-- element-specific id
+- Element - located on all the html and css file, this is the p, div, ul, h1-h3,header, body, footer. We used css code on these to keep consistent design throughout the webpage. 
+- Class - located on all the html and css file, We used both .class & #id throughout the webpage. 
+- ID - located on all the html and css file. We used both .class & #id throughout the webpage. 
 
 
 
 Advanced selectors:
-- descendent
-- sibliings
+- descendent - located on all the html and css file, this is in the menu. We used css code on these with descendent advanced selectors. Examples are #menu ul ul, #menu ul li, #menu ul a. The descendent  selector will be effected because they are elements within the ancestor element. 
+- siblings - located on the Contact us.html and css file, this function emphasizes all the siblings within this selector. This can be located on the Contact us. html file under the h3 ~ p, we made the function to display the siblings in italic. 
 
 Block elements
 - Div tags
