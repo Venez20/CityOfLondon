@@ -42,9 +42,9 @@ Inline elements
 - Iframe - located on the Index.html page and the Contact html page. For the index apge we added the event page within the iframe tag to have the page look more visually appealing. We also created an iframe tag of the city of london in the Contact.html page. 
 
 Input Element:
-- Text - Located in the Contact Us.html page. This is for the Name, Phone, Email& Spease Specify box within the form.
+- Text - Located in the Contact Us.html page. This is for the input of the persons Name, Phone, Email& Spease Specify box within the form. 
 - Radio - Located in the Contact Us.html page. This is to select the concerns within the contact us form in the fieldset. 
-- Submit - Located in the Contact Us.html page. This is thte button you select to submit the form. 
+- Submit - Located in the Contact Us.html page. This is the button you select to submit the form. 
 
 Input Attribute:
 - Maxlength: Located in the Contact Us.html page. This attribute is to provide a maximum length to this text box.
