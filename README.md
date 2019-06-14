@@ -24,7 +24,9 @@ Advanced selectors:
 - Descendent - located on all the html and css file, this is in the menu. We used css code on these with descendent advanced selectors. Examples are #menu ul ul, #menu ul li, #menu ul a. The descendent  selector will be effected because they are elements within the ancestor element. 
 - Siblings - located on the Contact us.html and css file, this function emphasizes all the siblings within this selector. This can be located on the Contact us. html file under the h3 ~ p, we made the function to display the siblings in italic. 
 
-Block elements
+Block elements: 
+- The below elements are located all over the html file.
+
 - Div tags
 - header tags
 - paragraphs
