@@ -35,14 +35,16 @@ Inline elements
 - link - Located on all html pages. We added a link under "Business" under the navigation tab to go to the actual city of london website. 
 - Inline css - located on all the html on the Contact Us.html file, this function was added to the Required Fields text box. We added font color of red bring attention to the word. We also included this function in the Events.html page to make the form field body pop with color and be more visable to the eye with a pop of white font.
 
+- Iframe - located on the Index.html page and the Contact html page. For the index apge we added the event page within the iframe tag to have the page look more visually appealing. We also created an iframe tag of the city of london in the Contact.html page. 
+
 Input Element:
-Text - Located in the Contact Us.html page. This is for the Name, Phone, Email& Spease Specify box within the form.
-Radio - Located in the Contact Us.html page. This is to select the concerns within the contact us form in the fieldset. 
-Submit - Located in the Contact Us.html page. This is thte button you select to submit the form. 
+- Text - Located in the Contact Us.html page. This is for the Name, Phone, Email& Spease Specify box within the form.
+- Radio - Located in the Contact Us.html page. This is to select the concerns within the contact us form in the fieldset. 
+- Submit - Located in the Contact Us.html page. This is thte button you select to submit the form. 
 
 Input Attribute:
-Maxlength: Located in the Contact Us.html page. This attribute is to provide a maximum length to this text box.
-Required: Located in the Contact Us.html page. We added a required attribute to ensure form is filled out correctly. 
+- Maxlength: Located in the Contact Us.html page. This attribute is to provide a maximum length to this text box.
+- Required: Located in the Contact Us.html page. We added a required attribute to ensure form is filled out correctly. 
 
 
 
