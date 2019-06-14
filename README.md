@@ -25,7 +25,7 @@ Advanced selectors:
 - Siblings - located on the Contact us.html and css file, this function emphasizes all the siblings within this selector. This can be located on the Contact us. html file under the h3 ~ p, we made the function to display the siblings in italic. 
 
 Block elements: 
-- The below elements are located all over the html file.
+The below elements are located all over the html file.
 
 - Div tags
 - header tags
