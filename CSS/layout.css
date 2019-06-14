@@ -3,6 +3,7 @@ body {
 	margin: 0;
 }
 
+/*City of London Title*/
 header {
 	font: 35px Arial, Helvetica;
 	color: white;
@@ -11,6 +12,7 @@ header {
 	padding-top: 0.5%;
 }
 
+/*Wrap attributes for all pages*/
 #wrap {
 	width: 85%;
 	margin: 0 auto;
@@ -25,6 +27,7 @@ header {
 	padding-left: 1%;
 }
 
+/*Titles on pages*/
 h2 {
 	font: 32px/1.2 Arial, Helvetica;
 	font-weight: bold;
@@ -34,6 +37,7 @@ h3 ~ p {
 	font-style: italic;
 }	
 
+/*Menu attributes for each page*/
 #menu, #menu ul {
     margin: 0;
     padding: 0;
@@ -190,7 +194,8 @@ h3 ~ p {
 #menu ul li:last-child > a {
     border-radius: 0 0 3px 3px;
 }
-	
+
+/*Copy right attributes*/
 footer {
 	text-align: left;
 	font: Arial, Helvetica;
@@ -206,11 +211,13 @@ footer a {
 	text-decoration: none;
 }
 
+/*Spacing for the event iframe on the home page*/
 #event {
 	padding-top: 55px;
 	
 }	
 
+/*Attributes for the paragraph used on multiple pages*/
 section {
 	float: left;
 	width: 46%;
@@ -219,13 +226,14 @@ section {
 	padding: 20px 10px 10px 10px;
 }
 
-
+/*image attributes in the section paragraph*/
 section img {
 	float: left;
 	padding-right: 1%;
 	padding-bottom: 1%;
 }
 
+/*Attributes for the paragraph used on multiple pages*/
 aside {
 	float: right;
 	width: 46%;
@@ -234,17 +242,20 @@ aside {
 	padding: 20px 10px 10px 10px;
 }
 
+/*image attributes in the aside paragraph*/
 aside img {
 	float: left;
 	padding-right: 1%;
 	padding-bottom: 1%;
 }
 
+/*Attributes for the image on the resident page*/
 #resident{
 	margin-top: -50px;
 	margin-left: 10px;
 }
 
+/*Table attributes on the resident page*/
 #table h2 {
 font: 25px Arial, Helvetica;	
 font-weight: bold;
@@ -271,6 +282,7 @@ font: Impact, sans-serif;
 padding-top: 50px;
 }
 
+/*Grid attributes to make the boxes flip*/
 .flip-box {
   background-color: transparent;
   width: 275px;
@@ -326,7 +338,7 @@ padding-top: 50px;
         grid-gap: 10px;
         grid-template-columns: repeat(5, [col] 150px );
 		 
-        
+/*For the contact us page to make certain field boxes a requirement*/        
 }
 #required {
 		color: red;
@@ -335,7 +347,8 @@ padding-top: 50px;
 fieldset{
 	width: 500px;
 }
-        
+  
+/*map attributes on the contact us page*/
 #map{
 	float: right;
 	padding-right: 10px;
@@ -346,6 +359,7 @@ fieldset{
 	color: #0c592c;
 }
 
+/*Area of London attribute on the contact us page*/
 .area {
 	color: darkgreen;
 }
