@@ -109,7 +109,7 @@ h3 ~ p {
     background: linear-gradient(#444, #111);
     box-shadow: 0 -1px 0 rgba(255,255,255,.3);  
     border-radius: 3px;
-    transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out; 
 }
 
 #menu li:hover > ul {
@@ -118,7 +118,7 @@ h3 ~ p {
     margin: 0;
 }
 
-#menu ul ul {
+#menu ul ul { /* Example of an advanced selector */
     top: 0;
     left: 150px;
     margin: 0 0 0 20px;
