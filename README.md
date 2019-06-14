@@ -34,7 +34,7 @@ Inline elements
 - images
 - link
 - form fields
-
+- Inline css - located on all the html on the Contact Us.html file, this function was added to the Required Fields text box. We added font color of red bring attention to the word. 
 
 
 
