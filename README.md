@@ -31,10 +31,18 @@ Block elements
 - lists
 
 Inline elements
-- images
-- link
-- form fields
-- Inline css - located on all the html on the Contact Us.html file, this function was added to the Required Fields text box. We added font color of red bring attention to the word. 
+- images - Located mostly on the index.html and css file, three images. We added the image links along with some styling details on the html file, on the css we more detail on the image to have them align correctly.
+- link - Located on all html pages. We added a link under "Business" under the navigation tab to go to the actual city of london website. 
+- Inline css - located on all the html on the Contact Us.html file, this function was added to the Required Fields text box. We added font color of red bring attention to the word. We also included this function in the Events.html page to make the form field body pop with color and be more visable to the eye with a pop of white font.
+
+Input Element:
+Text - Located in the Contact Us.html page. This is for the Name, Phone, Email& Spease Specify box within the form.
+Radio - Located in the Contact Us.html page. This is to select the concerns within the contact us form in the fieldset. 
+Submit - Located in the Contact Us.html page. This is thte button you select to submit the form. 
+
+Input Attribute:
+Maxlength: Located in the Contact Us.html page. This attribute is to provide a maximum length to this text box.
+Required: Located in the Contact Us.html page. We added a required attribute to ensure form is filled out correctly. 
 
 
 
