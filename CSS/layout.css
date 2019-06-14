@@ -206,6 +206,11 @@ footer a {
 	text-decoration: none;
 }
 
+#event {
+	padding-top: 55px;
+	
+}	
+
 section {
 	float: left;
 	width: 46%;
