@@ -2,6 +2,8 @@
 City Of London website
 Assignment by Kirsten Jeffrey, Anthony Veneziano & Maria Wong-Klassen.
 
+Just a short note - we had issues initially with pushing from github desktop to have these updates go to github online, we are unsute if it was because Anthony was the gate keeper but we managed to figure out how to be able to get other users to be able to commit to master and push to origin who werent the gate keeper. Unforunatly, this was not explained to us prior. We worked as a team and met on lunch breaks to work as a team on this assignment. 
+
 Codes are in CSS and HTML file
 This includes use of: 
 - Menu - located on all the html and css file, this is the navigation bar which links from page to page.
