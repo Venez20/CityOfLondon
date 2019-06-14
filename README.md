@@ -21,8 +21,8 @@ Selectors:
 
 
 Advanced selectors:
-- descendent - located on all the html and css file, this is in the menu. We used css code on these with descendent advanced selectors. Examples are #menu ul ul, #menu ul li, #menu ul a. The descendent  selector will be effected because they are elements within the ancestor element. 
-- siblings - located on the Contact us.html and css file, this function emphasizes all the siblings within this selector. This can be located on the Contact us. html file under the h3 ~ p, we made the function to display the siblings in italic. 
+- Descendent - located on all the html and css file, this is in the menu. We used css code on these with descendent advanced selectors. Examples are #menu ul ul, #menu ul li, #menu ul a. The descendent  selector will be effected because they are elements within the ancestor element. 
+- Siblings - located on the Contact us.html and css file, this function emphasizes all the siblings within this selector. This can be located on the Contact us. html file under the h3 ~ p, we made the function to display the siblings in italic. 
 
 Block elements
 - Div tags
@@ -31,8 +31,8 @@ Block elements
 - lists
 
 Inline elements
-- images - Located mostly on the index.html and css file, three images. We added the image links along with some styling details on the html file, on the css we more detail on the image to have them align correctly.
-- link - Located on all html pages. We added a link under "Business" under the navigation tab to go to the actual city of london website. 
+- Images - Located mostly on the index.html and css file, three images. We added the image links along with some styling details on the html file, on the css we more detail on the image to have them align correctly.
+- Link - Located on all html pages. We added a link under "Business" under the navigation tab to go to the actual city of london website. 
 - Inline css - located on all the html on the Contact Us.html file, this function was added to the Required Fields text box. We added font color of red bring attention to the word. We also included this function in the Events.html page to make the form field body pop with color and be more visable to the eye with a pop of white font.
 
 - Iframe - located on the Index.html page and the Contact html page. For the index apge we added the event page within the iframe tag to have the page look more visually appealing. We also created an iframe tag of the city of london in the Contact.html page. 
